@@ -9,7 +9,7 @@ tf$keras$backend$set_floatx('float32')
 source('utils.R')
 
 
-# Obtenció de dades i creacio del split train / test ----------------------------------
+# ObtenciÃ³ de dades i creacio del split train / test ----------------------------------
 
 GetData <- function(){
   
